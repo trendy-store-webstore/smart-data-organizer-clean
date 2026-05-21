@@ -12,46 +12,32 @@ dependencies:
 
   cupertino_icons: ^1.0.8
 
-  # File handling
-  file_picker: ^8.1.2
-  path_provider: ^2.1.4
+  file_picker: ^8.1.7
+  path_provider: ^2.1.5
   path: ^1.9.0
 
-  # Excel / CSV
   excel: ^4.0.6
   csv: ^6.0.0
 
-  # Spreadsheet
   pluto_grid: ^8.0.0
 
-  # State management
   provider: ^6.1.2
-
-  # HTTP
   http: ^1.2.2
+  shared_preferences: ^2.3.3
 
-  # Local storage
-  shared_preferences: ^2.3.2
-
-  # Export
   pdf: ^3.11.1
-  printing: ^5.14.0
-  share_plus: ^10.0.3
+  printing: ^5.14.2
+  share_plus: ^10.1.2
 
-  # UI
   flutter_spinkit: ^5.2.1
   google_fonts: ^6.2.1
-  fluttertoast: ^8.2.12
+
   animate_do: ^3.3.4
   dotted_border: ^2.1.0
 
-  # Permissions
   permission_handler: ^12.0.0+1
+  google_mobile_ads: ^5.2.0
 
-  # Ads
-  google_mobile_ads: ^5.1.0
-
-  # Utils
   intl: ^0.19.0
   uuid: ^4.5.1
 
